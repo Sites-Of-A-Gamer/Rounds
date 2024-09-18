@@ -1,5 +1,7 @@
 <h1 style="font-family:Lucida Handwriting;font-size:50px;" align="center">Exploring Rounds</h1>
-<a href="https://github.com/Sites-Of-A-Gamer/Rounds/blob/main/README.md"> <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/header.jpg?t=1708524608" alt="Rounds Title Page" class="center" width="1040.83333333" height="650" /></a>
+<p align="center">
+<a href="https://github.com/Sites-Of-A-Gamer/Rounds/blob/main/README.md"> <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557740/header.jpg?t=1708524608" alt="Rounds Title Page" class="center" width="346.944444443" height="216.666666667" /></a>
+</p>
 <h2>Analysing Rounds</h2>
 <p>With its emphasis on originality, inventiveness, and distinctive gaming experiences, the indie scene has established a special place for itself in the growing world of video games. Blackcast Games, an indie firm, created the fascinating multiplayer game Rounds, which is one example of a game that embodies these qualities. Rounds, which was released in 2020, blends elements of classic arena combat with an unconventional approach to player involvement and strategy. This article explores the fundamental elements of Rounds, including its design philosophy, gameplay mechanics, and influence on the gaming community.</p>
 <h3>Gameplay Mechanics</h3>
